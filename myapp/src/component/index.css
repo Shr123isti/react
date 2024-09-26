@@ -1,0 +1,168 @@
+.navbar{
+   
+    height:70px;
+    display:flex;
+    align-content: end;
+    text-decoration: none;
+    justify-content:space-around;
+    background-color: rgb(47, 47, 248);
+    
+}
+.Main{
+    background-image:url(./Lucknow.jpeg);
+    height:100vh;
+}
+.MainAbout{
+    
+    background-repeat: no-repeat;
+    height:100vh;
+    width:100vw;
+    
+  
+  
+    
+}
+.Contact{
+    background-image:url(./C1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height:100vh;
+    width:100vw;
+    
+  
+  
+    
+}
+
+
+.about{
+    color:darkslategray;
+    font-size: larger;
+}
+.Contt{
+    display:flex;
+    justify-content:space-between;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    align-items: center;
+    
+
+}
+.img1{
+    display:flex;
+    font-size: larger;
+}
+.img1:hover{
+    color:blue;
+    zoom:110%;
+
+}
+.img2{
+    display:flex;
+    font-size: larger;
+}
+.img2:hover{
+    color:blue;
+    zoom:110%;
+
+}
+.img3{
+    display:flex;
+    font-size: larger;
+}
+.img3:hover{
+    color:blue;
+    zoom:110%;
+
+}
+.img4{
+    display:flex;
+    font-size: larger;
+}
+.img4:hover{
+    color:blue;
+    zoom:110%;
+
+}
+.img5{
+    display:flex;
+    font-size: larger;
+}
+.img5:hover{
+    color:blue;
+    zoom:110%;
+
+}
+.img6{
+    display:flex;
+    font-size: larger;
+}
+.img6:hover{
+    color:blue;
+    zoom:110%;
+
+}
+.img7{
+    display:flex;
+    font-size: larger;
+}
+.img7:hover{
+    color:blue;
+    zoom:110%;
+
+}
+.img8{
+    display:flex;
+    font-size: larger;
+}
+.img8:hover{
+    color:blue;
+    zoom:110%;
+
+}
+.img9{
+    display:flex;
+    font-size: larger;
+}
+.img9:hover{
+    color:blue;
+    zoom:110%;
+
+}
+.img10{
+    display:flex;
+    font-size: larger;
+}
+.img10:hover{
+    color:blue;
+    zoom:110%;
+
+}
+.img11{
+    display:flex;
+    font-size: larger;
+}
+.img11:hover{
+    color:blue;
+    zoom:110%;
+
+}
+.img12{
+    display:flex;
+    font-size: larger;
+}
+.img12:hover{
+    color:blue;
+    zoom:110%;
+
+}
+.img13{
+    display:flex;
+    font-size: larger;
+}
+.img13:hover{
+    color:blue;
+    zoom:110%;
+
+}
